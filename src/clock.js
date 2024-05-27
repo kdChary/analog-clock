@@ -1,5 +1,3 @@
-import React from 'react';
-
 import * as S from './styleClock';
 import useTime from './useTime';
 
